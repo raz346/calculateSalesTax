@@ -53,15 +53,6 @@ function calculateSalesTax(companyData, taxRates) {
         }
     }
 
-
-
-  // var province = companyData[i].province
-  //   for ( var provanceCode in taxRates){
-  //   var rate = taxRates[provanceCode];
-  //     if (province === provanceCode) {
-  //       output[name]["totalTaxes"] = allSales * rate
-  //     }
-  //   }
   }
   console.log(output)
 }
